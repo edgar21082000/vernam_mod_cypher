@@ -20,6 +20,3 @@ for i in range(100):
         print("===========False==========")
         print(text)
         print(key)
-
-
-
